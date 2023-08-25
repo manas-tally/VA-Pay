@@ -1,0 +1,12 @@
+.placeholdercss::placeholder{
+    color: black;
+    font-size: 0.75em;
+}
+
+.cc-types__img {
+	filter: sepia(.3) contrast(1.1) brightness(1.1) grayscale(1);
+}
+
+.cc-types__img--active {
+	filter: none;
+}
